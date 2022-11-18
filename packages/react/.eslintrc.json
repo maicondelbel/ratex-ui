@@ -1,0 +1,3 @@
+{
+  "extends": "@ratex-ui/eslint-config"
+}
