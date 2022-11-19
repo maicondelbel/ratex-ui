@@ -1,5 +1,11 @@
 # @ratex-ui/tokens
 
+## 1.1.1
+
+### Patch Changes
+
+- Removed color test
+
 ## 1.1.0
 
 ### Minor Changes
