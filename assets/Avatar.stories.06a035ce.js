@@ -1,0 +1,2 @@
+import{A as t}from"./index.ef01c8cb.js";import"./index.da547501.js";import"./iframe.f3ad70da.js";import"./index.ad84f5bc.js";import"./jsx-runtime.3618d192.js";const c={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/maicondelbel.png",alt:"Maicon P. Del Bel"},argTypes:{src:{control:{type:"text"}}}},e={},l={args:{src:void 0}},p=["Primary","WithFallback"];export{e as Primary,l as WithFallback,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.06a035ce.js.map
