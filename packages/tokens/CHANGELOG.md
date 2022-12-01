@@ -1,5 +1,11 @@
 # @ratex-ui/tokens
 
+## 1.1.2
+
+### Patch Changes
+
+- Added news components
+
 ## 1.1.1
 
 ### Patch Changes
