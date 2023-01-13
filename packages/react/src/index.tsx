@@ -9,3 +9,5 @@ export * from '../src/components/Checkbox'
 export * from '../src/components/MultiStep'
 export * from '../src/components/Tooltip'
 export * from '../src/components/Toast'
+
+export { styled, css, keyframes, getCssText, theme, config } from './styles'

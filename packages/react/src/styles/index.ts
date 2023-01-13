@@ -9,7 +9,7 @@ import {
 } from '@ratex-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
-export const {
+const {
   styled,
   css,
   globalCss,
@@ -34,3 +34,14 @@ export const {
     space,
   },
 })
+
+export {
+  config,
+  css,
+  getCssText,
+  globalCss,
+  keyframes,
+  styled,
+  theme,
+  createTheme,
+}
