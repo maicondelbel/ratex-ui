@@ -1,5 +1,11 @@
 # @ratex-ui/react
 
+## 2.1.1
+
+### Patch Changes
+
+- Fix ReactRef
+
 ## 2.1.0
 
 ### Minor Changes
