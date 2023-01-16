@@ -1,4 +1,5 @@
 import {
+  breakpoints,
   colors,
   fonts,
   fontSizes,
@@ -33,6 +34,7 @@ const {
     radii,
     space,
   },
+  media: breakpoints,
 })
 
 export {

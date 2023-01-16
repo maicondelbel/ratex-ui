@@ -1,5 +1,11 @@
 # @ratex-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- Added breakpoints
+
 ## 2.1.1
 
 ### Patch Changes
