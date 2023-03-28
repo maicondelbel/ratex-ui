@@ -1,5 +1,35 @@
 # @ratex-ui/tokens
 
+## 3.0.0
+
+### Major Changes
+
+- Added breakpoints
+
+## 2.1.0
+
+### Minor Changes
+
+- Fix globalCss exportation
+
+## 2.0.0
+
+### Major Changes
+
+- Testing stiches exports
+
+## 1.1.2
+
+### Patch Changes
+
+- Added news components
+
+## 1.1.1
+
+### Patch Changes
+
+- Removed color test
+
 ## 1.1.0
 
 ### Minor Changes

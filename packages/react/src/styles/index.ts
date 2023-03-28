@@ -1,4 +1,5 @@
 import {
+  breakpoints,
   colors,
   fonts,
   fontSizes,
@@ -9,7 +10,7 @@ import {
 } from '@ratex-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
-export const {
+const {
   styled,
   css,
   globalCss,
@@ -33,4 +34,16 @@ export const {
     radii,
     space,
   },
+  media: breakpoints,
 })
+
+export {
+  config,
+  css,
+  getCssText,
+  globalCss,
+  keyframes,
+  styled,
+  theme,
+  createTheme,
+}
