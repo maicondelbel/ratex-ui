@@ -8,9 +8,16 @@ export default {
   args: {
     title: 'Toast Title',
     content: 'This is a Toast Content',
+    open: true,
+  },
+  argTypes: {
+    open: {
+      control: {
+        type: 'boolean',
+      },
+    },
   },
   decorators: [(Story) => Story()],
-  argTypes: {},
 } as Meta<IToastProps>
 
 export const Primary: StoryObj<IToastProps> = {}
